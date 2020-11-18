@@ -1,0 +1,29 @@
+{
+  "HomePage": "Send Direct Message",
+  "SettingsPage": "Configurações",
+  "RecentPhoneListPage": "Recentes",
+
+  "english": "Inglês",
+  "portuguese": "Português",
+
+  "messageChangeLanguage": "Alterado com sucesso.",
+  
+  "language": "Idioma",
+  "selectCountry": "Selecione o país",
+  "errorSaveSelectedCountry": "Erro ao salvar o país selecionado.",
+
+  "phoneNumber": "Número de telefone",
+  "phoneNumberPlaceHolder": "Código de área + telefone",
+  "checkPhoneNumber": "Digite o número do telefone",
+
+  "inputMessage": "Mensagem",
+  "inputMessagePlaceHolder": "Opcional",
+
+  "sendButton": "ENVIAR",
+  "whatsappNotInstalled": "Certifique-se de ter o WhatsApp instalado.",
+  "messageErrorSubmit": "Problemas no envio das informações.",
+
+  "formatDate": "dd/MM/yyyy HH:mm",
+
+  "headerMessage": "Envie mensagem pelo WhatsApp sem salvar o contato"
+}
