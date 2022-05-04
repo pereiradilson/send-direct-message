@@ -25,7 +25,7 @@ Send Direct Message is a utility for WhatsApp without saving unknown numbers.
   # Enter folder
   $ cd send-direct-message
 
-  # Install dependence's
+  # Install dependencies
   $ yarn
 
   # Execute
